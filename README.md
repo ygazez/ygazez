@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yağmur Gazezoğlu</h1>
-<h3 align="center">I am a Computer Engineering student at Çanakkale On Sekiz Mart University</h3>
+
 
 - 📫 How to reach me **yagmurgazezoglu@gmail.com**
 
