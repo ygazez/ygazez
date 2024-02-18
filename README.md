@@ -3,6 +3,8 @@
 
 - 📫 How to reach me **yagmurgazezoglu@gmail.com**
 
+- https://yagmur-gazezoglu.vercel.app/about-me
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yağmur-gazezoğlu-283150212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yağmur-gazezoğlu-283150212/" height="30" width="40" /></a>
